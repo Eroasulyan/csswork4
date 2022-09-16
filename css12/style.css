@@ -1,5 +1,3 @@
-.some{
+p:nth-last-child(even){
     color: brown;
-    font-size: 20px;
-    font-family: arial;
 }
