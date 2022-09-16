@@ -1,5 +1,4 @@
 p:nth-last-child(odd){
     color: blue;
     font-size: 20px;
-    font-family: arial;
 }
