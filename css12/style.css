@@ -1,4 +1,4 @@
-p:nth-last-child(odd){
+p:nth-last-child(3n-4){
     color: blue;
     font-size: 20px;
 }
