@@ -1,4 +1,4 @@
-p:nth-last-child(3n-4){
+p:nth-last-child(3n-3){
     color: blue;
     font-size: 20px;
 }
